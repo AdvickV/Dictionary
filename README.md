@@ -1,17 +1,8 @@
 # Dictionary
  A Desktop App that gives the Definition, Pronunciation, Grammar Type and Examples of the word entered. It is a dictionary made with Tkinter.
-# Libraries
-1. Pillow
+# Installation
 ```
-$ pip install Pillow
-```
-2. Pyttsx3
-```
-$ pip install pyttsx3
-```
-3. Requests
-```
-$ pip install requests
+$ pip install -r requirements.txt
 ```
 # Usage
 - Type a word in the Entry.
